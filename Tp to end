@@ -1,0 +1,4 @@
+sendNotification("Spam Button If Not Teleported", "Keep clicking if teleport fails", 4)
+        wait(1)
+        player.Character:PivotTo(CFrame.new(-346, -69, -49060))
+    end
